@@ -23,14 +23,15 @@ Once at the desired location, I opted to use an adhesive to lock it in place.
 
 Images:
 
-![Image of the Light Mount Bracket](Img\Light_Mount_Bracket.png "Light Mount Bracket")
+![Image of the Light Mount Bracket](Img/Light_Mount_Bracket.png "Light Mount Bracket")
 This is the main bracket for mounting. The soldered breadboard can be slid into the side, and the servo can be mounted into the block on the back using an included screw into the part. The holes on the top and bottom are spaced according to North American commercial light switch brackets to allow for simple mounting.
 
-![Image of the PIR Sensor Housing](Img\PIR_Sensor_Housing.png "PIR Sensor Housing")
+![Image of the PIR Sensor Housing](Img/PIR_Sensor_Housing.png "PIR Sensor Housing")
 This unit houses the two PIR sensors. The back part is long enough to match the connectors of female wire ends connecting to the pins. The cutout allows for a full 90 degree rotation.
 
-![Image of the Servo Horn Topper](Img\Servo_Horn_Topper.png "Servo Horn Topper")
+![Image of the Servo Horn Topper](Img/Servo_Horn_Topper.png "Servo Horn Topper")
 This part is meant to go overtop of the (included) 180 degree servo horn. The included screw is too short, but a different one could reach. Otherwise, the topper must be glued on.
 
-![Image of the PIR Housing Recepticle](Img\PIR_Housing_Recepticle.png "PIR Housing Recepticle")
+![Image of the PIR Housing Recepticle](Img/PIR_Housing_Recepticle.png "PIR Housing Recepticle")
+
 The cylindrical part of this is designed to attach to the PIR sensor housing as a pivot point. It is separated to simplify printing. The recepticle part is to be mounted to the soldered breadboard.
